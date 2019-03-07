@@ -1,0 +1,91 @@
+Time,ID,Number
+Field,F0358,1
+Field,F0359,2
+Two Weeks,F0359,3
+Two Weeks,F0358,4
+Four Weeks,F0358,5
+Four Weeks,F0359,6
+Six Weeks,F0358,7
+Six Weeks,F0359,8
+Eight Weeks,F0359,9
+Eight Weeks,F0358,10
+Field,F0001,11
+Field,F0003,12
+Field,F0004,13
+Field,F0006,14
+Field,F0013,15
+Field,F0014,16
+Field,F0015,17
+Field,F0016,18
+Field,F0017,19
+Two Weeks,F0001,20
+Two Weeks,F0003,21
+Two Weeks,F0004,22
+Two Weeks,F0006,23
+Two Weeks,F0013,24
+Two Weeks,F0014,25
+Two Weeks,F0015,26
+Two Weeks,F0016,27
+Two Weeks,F0017,28
+Four Weeks,F0001,29
+Four Weeks,F0003,30
+Four Weeks,F0004,31
+Four Weeks,F0006,32
+Four Weeks,F0013,33
+Four Weeks,F0014,34
+Four Weeks,F0015,35
+Four Weeks,F0016,36
+Four Weeks,F0017,37
+Six Weeks,F0001,38
+Six Weeks,F0003,39
+Six Weeks,F0004,40
+Six Weeks,F0006,41
+Six Weeks,F0013,42
+Six Weeks,F0014,43
+Six Weeks,F0015,44
+Six Weeks,F0016,45
+Six Weeks,F0017,46
+Eight Weeks,F0001,47
+Eight Weeks,F0003,48
+Eight Weeks,F0004,49
+Eight Weeks,F0006,50
+Eight Weeks,F0013,51
+Eight Weeks,F0014,52
+Eight Weeks,F0015,53
+Eight Weeks,F0016,54
+Eight Weeks,F0017,55
+Field,F0155,56
+Field,F0156,57
+Field,F0157,58
+Field,F0158,59
+Field,F0159,60
+Field,F0160,61
+Two Weeks,F0155,62
+Two Weeks,F0156,63
+Two Weeks,F0157,64
+Two Weeks,F0158,65
+Two Weeks,F0159,66
+Two Weeks,F0160,67
+Four Weeks,F0155,68
+Four Weeks,F0156,69
+Four Weeks,F0157,70
+Four Weeks,F0158,71
+Four Weeks,F0159,72
+Four Weeks,F0160,73
+Six Weeks,F0155,74
+Six Weeks,F0156,75
+Six Weeks,F0157,76
+Six Weeks,F0158,77
+Six Weeks,F0159,78
+Six Weeks,F0160,79
+Eight Weeks,F0155,80
+Eight Weeks,F0156,81
+Eight Weeks,F0157,82
+Eight Weeks,F0158,83
+Eight Weeks,F0159,84
+Eight Weeks,F0160,85
+Field,F0269,86
+Two Weeks,F0269,87
+Four Weeks,F0269,88
+Six Weeks,F0269,89
+Eight Weeks,F0269,90

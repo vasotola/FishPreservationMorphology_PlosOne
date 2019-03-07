@@ -1,0 +1,371 @@
+River,Site,Time,ID,
+Little River,Academy,Field,F0009,a
+Little River,Academy,Field,F0012,a
+Little River,Academy,Field,F0028,a
+Little River,Academy,Field,F0029,a
+Little River,Academy,Field,F0030,a
+Little River,Academy,Field,F0031,a
+Little River,Academy,Field,F0032,a
+Little River,Academy,Field,F0039,a
+Navasota,Easterly,Field,F0040,a
+Navasota,Easterly,Field,F0042,a
+Navasota,Easterly,Field,F0043,a
+Navasota,Easterly,Field,F0044,a
+Navasota,Easterly,Field,F0045,a
+Navasota,Easterly,Field,F0046,a
+Navasota,Easterly,Field,F0047,a
+Navasota,Easterly,Field,F0048,a
+Little River,Academy,Two Weeks,F0009,b
+Little River,Academy,Two Weeks,F0012,b
+Little River,Academy,Two Weeks,F0028,b
+Little River,Academy,Two Weeks,F0029,b
+Little River,Academy,Two Weeks,F0030,b
+Little River,Academy,Two Weeks,F0031,b
+Little River,Academy,Two Weeks,F0032,b
+Little River,Academy,Two Weeks,F0039,b
+Navasota,Easterly,Two Weeks,F0040,b
+Navasota,Easterly,Two Weeks,F0042,b
+Navasota,Easterly,Two Weeks,F0043,b
+Navasota,Easterly,Two Weeks,F0044,b
+Navasota,Easterly,Two Weeks,F0045,b
+Navasota,Easterly,Two Weeks,F0046,b
+Navasota,Easterly,Two Weeks,F0047,b
+Navasota,Easterly,Two Weeks,F0048,b
+Little River,Academy,Four Weeks,F0009,c
+Little River,Academy,Four Weeks,F0012,c
+Little River,Academy,Four Weeks,F0028,c
+Little River,Academy,Four Weeks,F0029,c
+Little River,Academy,Four Weeks,F0030,c
+Little River,Academy,Four Weeks,F0031,c
+Little River,Academy,Four Weeks,F0032,c
+Little River,Academy,Four Weeks,F0039,c
+Navasota,Easterly,Four Weeks,F0040,c
+Navasota,Easterly,Four Weeks,F0042,c
+Navasota,Easterly,Four Weeks,F0043,c
+Navasota,Easterly,Four Weeks,F0044,c
+Navasota,Easterly,Four Weeks,F0045,c
+Navasota,Easterly,Four Weeks,F0046,c
+Navasota,Easterly,Four Weeks,F0047,c
+Navasota,Easterly,Four Weeks,F0048,c
+Little River,Academy,Six Weeks,F0009,d
+Little River,Academy,Six Weeks,F0012,d
+Little River,Academy,Six Weeks,F0028,d
+Little River,Academy,Six Weeks,F0029,d
+Little River,Academy,Six Weeks,F0030,d
+Little River,Academy,Six Weeks,F0031,d
+Little River,Academy,Six Weeks,F0032,d
+Little River,Academy,Six Weeks,F0039,d
+Navasota,Easterly,Six Weeks,F0040,d
+Navasota,Easterly,Six Weeks,F0042,d
+Navasota,Easterly,Six Weeks,F0043,d
+Navasota,Easterly,Six Weeks,F0044,d
+Navasota,Easterly,Six Weeks,F0045,d
+Navasota,Easterly,Six Weeks,F0046,d
+Navasota,Easterly,Six Weeks,F0047,d
+Navasota,Easterly,Six Weeks,F0048,d
+Little River,Academy,Eight Weeks,F0009,e
+Little River,Academy,Eight Weeks,F0012,e
+Little River,Academy,Eight Weeks,F0028,e
+Little River,Academy,Eight Weeks,F0029,e
+Little River,Academy,Eight Weeks,F0030,e
+Little River,Academy,Eight Weeks,F0031,e
+Little River,Academy,Eight Weeks,F0032,e
+Little River,Academy,Eight Weeks,F0039,e
+Navasota,Easterly,Eight Weeks,F0040,e
+Navasota,Easterly,Eight Weeks,F0042,e
+Navasota,Easterly,Eight Weeks,F0043,e
+Navasota,Easterly,Eight Weeks,F0044,e
+Navasota,Easterly,Eight Weeks,F0045,e
+Navasota,Easterly,Eight Weeks,F0046,e
+Navasota,Easterly,Eight Weeks,F0047,e
+Navasota,Easterly,Eight Weeks,F0048,e
+Guadelupe,Comfort,Field,F0149,a
+Guadelupe,Comfort,Field,F0150,a
+Guadelupe,Comfort,Field,F0152,a
+Guadelupe,Comfort,Field,F0153,a
+Guadelupe,Comfort,Field,F0154,a
+Guadelupe,Comfort,Field,F0161,a
+Guadelupe,Comfort,Field,F0162,a
+Guadelupe,Comfort,Field,F0163,a
+Guadelupe,Comfort,Field,F0164,a
+Guadelupe,Comfort,Field,F0165,a
+Medina,Bendera,Field,F0168,a
+Medina,Bendera,Field,F0170,a
+Medina,Bendera,Field,F0171,a
+Medina,Bendera,Field,F0172,a
+Medina,Bendera,Field,F0173,a
+Medina,Bendera,Field,F0174,a
+Medina,Bendera,Field,F0175,a
+Medina,Bendera,Field,F0176,a
+Medina,Bendera,Field,F0177,a
+Lampasas,Kempner,Field,F0178,a
+Lampasas,Kempner,Field,F0179,a
+Lampasas,Kempner,Field,F0180,a
+Lampasas,Kempner,Field,F0181,a
+Lampasas,Kempner,Field,F0182,a
+Lampasas,Kempner,Field,F0183,a
+Lampasas,Kempner,Field,F0184,a
+Lampasas,Kempner,Field,F0185,a
+Lampasas,Kempner,Field,F0187,a
+Lampasas,Kempner,Field,F0188,a
+Guadelupe,Comfort,Two Weeks,F0149,b
+Guadelupe,Comfort,Two Weeks,F0150,b
+Guadelupe,Comfort,Two Weeks,F0152,b
+Guadelupe,Comfort,Two Weeks,F0153,b
+Guadelupe,Comfort,Two Weeks,F0154,b
+Guadelupe,Comfort,Two Weeks,F0161,b
+Guadelupe,Comfort,Two Weeks,F0162,b
+Guadelupe,Comfort,Two Weeks,F0163,b
+Guadelupe,Comfort,Two Weeks,F0164,b
+Guadelupe,Comfort,Two Weeks,F0165,b
+Medina,Bendera,Two Weeks,F0168,b
+Medina,Bendera,Two Weeks,F0170,b
+Medina,Bendera,Two Weeks,F0171,b
+Medina,Bendera,Two Weeks,F0172,b
+Medina,Bendera,Two Weeks,F0173,b
+Medina,Bendera,Two Weeks,F0174,b
+Medina,Bendera,Two Weeks,F0175,b
+Medina,Bendera,Two Weeks,F0176,b
+Medina,Bendera,Two Weeks,F0177,b
+Lampasas,Kempner,Two Weeks,F0178,b
+Lampasas,Kempner,Two Weeks,F0179,b
+Lampasas,Kempner,Two Weeks,F0180,b
+Lampasas,Kempner,Two Weeks,F0181,b
+Lampasas,Kempner,Two Weeks,F0182,b
+Lampasas,Kempner,Two Weeks,F0183,b
+Lampasas,Kempner,Two Weeks,F0184,b
+Lampasas,Kempner,Two Weeks,F0185,b
+Lampasas,Kempner,Two Weeks,F0187,b
+Lampasas,Kempner,Two Weeks,F0188,b
+Guadelupe,Comfort,Four Weeks,F0149,c
+Guadelupe,Comfort,Four Weeks,F0150,c
+Guadelupe,Comfort,Four Weeks,F0152,c
+Guadelupe,Comfort,Four Weeks,F0153,c
+Guadelupe,Comfort,Four Weeks,F0154,c
+Guadelupe,Comfort,Four Weeks,F0161,c
+Guadelupe,Comfort,Four Weeks,F0162,c
+Guadelupe,Comfort,Four Weeks,F0163,c
+Guadelupe,Comfort,Four Weeks,F0164,c
+Guadelupe,Comfort,Four Weeks,F0165,c
+Medina,Bendera,Four Weeks,F0168,c
+Medina,Bendera,Four Weeks,F0170,c
+Medina,Bendera,Four Weeks,F0171,c
+Medina,Bendera,Four Weeks,F0172,c
+Medina,Bendera,Four Weeks,F0173,c
+Medina,Bendera,Four Weeks,F0174,c
+Medina,Bendera,Four Weeks,F0175,c
+Medina,Bendera,Four Weeks,F0176,c
+Medina,Bendera,Four Weeks,F0177,c
+Lampasas,Kempner,Four Weeks,F0178,c
+Lampasas,Kempner,Four Weeks,F0179,c
+Lampasas,Kempner,Four Weeks,F0180,c
+Lampasas,Kempner,Four Weeks,F0181,c
+Lampasas,Kempner,Four Weeks,F0182,c
+Lampasas,Kempner,Four Weeks,F0183,c
+Lampasas,Kempner,Four Weeks,F0184,c
+Lampasas,Kempner,Four Weeks,F0185,c
+Lampasas,Kempner,Four Weeks,F0187,c
+Lampasas,Kempner,Four Weeks,F0188,c
+Guadelupe,Comfort,Six Weeks,F0149,d
+Guadelupe,Comfort,Six Weeks,F0150,d
+Guadelupe,Comfort,Six Weeks,F0152,d
+Guadelupe,Comfort,Six Weeks,F0153,d
+Guadelupe,Comfort,Six Weeks,F0154,d
+Guadelupe,Comfort,Six Weeks,F0161,d
+Guadelupe,Comfort,Six Weeks,F0162,d
+Guadelupe,Comfort,Six Weeks,F0163,d
+Guadelupe,Comfort,Six Weeks,F0164,d
+Guadelupe,Comfort,Six Weeks,F0165,d
+Medina,Bendera,Six Weeks,F0168,d
+Medina,Bendera,Six Weeks,F0170,d
+Medina,Bendera,Six Weeks,F0171,d
+Medina,Bendera,Six Weeks,F0172,d
+Medina,Bendera,Six Weeks,F0173,d
+Medina,Bendera,Six Weeks,F0174,d
+Medina,Bendera,Six Weeks,F0175,d
+Medina,Bendera,Six Weeks,F0176,d
+Medina,Bendera,Six Weeks,F0177,d
+Lampasas,Kempner,Six Weeks,F0178,d
+Lampasas,Kempner,Six Weeks,F0179,d
+Lampasas,Kempner,Six Weeks,F0180,d
+Lampasas,Kempner,Six Weeks,F0181,d
+Lampasas,Kempner,Six Weeks,F0182,d
+Lampasas,Kempner,Six Weeks,F0183,d
+Lampasas,Kempner,Six Weeks,F0184,d
+Lampasas,Kempner,Six Weeks,F0185,d
+Lampasas,Kempner,Six Weeks,F0187,d
+Lampasas,Kempner,Six Weeks,F0188,d
+Guadelupe,Comfort,Eight Weeks,F0149,e
+Guadelupe,Comfort,Eight Weeks,F0150,e
+Guadelupe,Comfort,Eight Weeks,F0152,e
+Guadelupe,Comfort,Eight Weeks,F0153,e
+Guadelupe,Comfort,Eight Weeks,F0154,e
+Guadelupe,Comfort,Eight Weeks,F0161,e
+Guadelupe,Comfort,Eight Weeks,F0162,e
+Guadelupe,Comfort,Eight Weeks,F0163,e
+Guadelupe,Comfort,Eight Weeks,F0164,e
+Guadelupe,Comfort,Eight Weeks,F0165,e
+Medina,Bendera,Eight Weeks,F0168,e
+Medina,Bendera,Eight Weeks,F0170,e
+Medina,Bendera,Eight Weeks,F0171,e
+Medina,Bendera,Eight Weeks,F0172,e
+Medina,Bendera,Eight Weeks,F0173,e
+Medina,Bendera,Eight Weeks,F0174,e
+Medina,Bendera,Eight Weeks,F0175,e
+Medina,Bendera,Eight Weeks,F0176,e
+Medina,Bendera,Eight Weeks,F0177,e
+Lampasas,Kempner,Eight Weeks,F0178,e
+Lampasas,Kempner,Eight Weeks,F0179,e
+Lampasas,Kempner,Eight Weeks,F0180,e
+Lampasas,Kempner,Eight Weeks,F0181,e
+Lampasas,Kempner,Eight Weeks,F0182,e
+Lampasas,Kempner,Eight Weeks,F0183,e
+Lampasas,Kempner,Eight Weeks,F0184,e
+Lampasas,Kempner,Eight Weeks,F0185,e
+Lampasas,Kempner,Eight Weeks,F0187,e
+Lampasas,Kempner,Eight Weeks,F0188,e
+San Marcos,Upper,Field,F0198,a
+San Marcos,Upper,Field,F0199,a
+San Marcos,Upper,Field,F0201,a
+San Marcos,Upper,Field,F0202,a
+San Marcos,Upper,Field,F0204,a
+San Marcos,Upper,Field,F0205,a
+San Marcos,Upper,Field,F0206,a
+San Marcos,Upper,Field,F0208,a
+San Marcos,Upper,Field,F0209,a
+San Marcos,Upper,Field,F0210,a
+San Marcos,Upper,Field,F0211,a
+San Marcos,Upper,Field,F0212,a
+San Marcos,Upper,Two Weeks,F0198,b
+San Marcos,Upper,Two Weeks,F0199,b
+San Marcos,Upper,Two Weeks,F0201,b
+San Marcos,Upper,Two Weeks,F0202,b
+San Marcos,Upper,Two Weeks,F0204,b
+San Marcos,Upper,Two Weeks,F0205,b
+San Marcos,Upper,Two Weeks,F0206,b
+San Marcos,Upper,Two Weeks,F0208,b
+San Marcos,Upper,Two Weeks,F0209,b
+San Marcos,Upper,Two Weeks,F0210,b
+San Marcos,Upper,Two Weeks,F0211,b
+San Marcos,Upper,Two Weeks,F0212,b
+San Marcos,Upper,Four Weeks,F0198,c
+San Marcos,Upper,Four Weeks,F0199,c
+San Marcos,Upper,Four Weeks,F0201,c
+San Marcos,Upper,Four Weeks,F0202,c
+San Marcos,Upper,Four Weeks,F0204,c
+San Marcos,Upper,Four Weeks,F0205,c
+San Marcos,Upper,Four Weeks,F0206,c
+San Marcos,Upper,Four Weeks,F0208,c
+San Marcos,Upper,Four Weeks,F0209,c
+San Marcos,Upper,Four Weeks,F0210,c
+San Marcos,Upper,Four Weeks,F0211,c
+San Marcos,Upper,Four Weeks,F0212,c
+San Marcos,Upper,Six Weeks,F0198,d
+San Marcos,Upper,Six Weeks,F0199,d
+San Marcos,Upper,Six Weeks,F0201,d
+San Marcos,Upper,Six Weeks,F0202,d
+San Marcos,Upper,Six Weeks,F0204,d
+San Marcos,Upper,Six Weeks,F0205,d
+San Marcos,Upper,Six Weeks,F0206,d
+San Marcos,Upper,Six Weeks,F0208,d
+San Marcos,Upper,Six Weeks,F0209,d
+San Marcos,Upper,Six Weeks,F0210,d
+San Marcos,Upper,Six Weeks,F0211,d
+San Marcos,Upper,Six Weeks,F0212,d
+San Marcos,Upper,Eight Weeks,F0198,e
+San Marcos,Upper,Eight Weeks,F0199,e
+San Marcos,Upper,Eight Weeks,F0201,e
+San Marcos,Upper,Eight Weeks,F0202,e
+San Marcos,Upper,Eight Weeks,F0204,e
+San Marcos,Upper,Eight Weeks,F0205,e
+San Marcos,Upper,Eight Weeks,F0206,e
+San Marcos,Upper,Eight Weeks,F0208,e
+San Marcos,Upper,Eight Weeks,F0209,e
+San Marcos,Upper,Eight Weeks,F0210,e
+San Marcos,Upper,Eight Weeks,F0211,e
+San Marcos,Upper,Eight Weeks,F0212,e
+Onion Creek,Driftwood,Field,F0328,a
+Onion Creek,Driftwood,Field,F0329,a
+Onion Creek,Driftwood,Field,F0331,a
+Onion Creek,Driftwood,Field,F0332,a
+Onion Creek,Driftwood,Field,F0333,a
+Onion Creek,Driftwood,Field,F0334,a
+Onion Creek,Driftwood,Field,F0335,a
+Onion Creek,Driftwood,Field,F0337,a
+Onion Creek,Driftwood,Field,F0338,a
+Onion Creek,Driftwood,Field,F0339,a
+Onion Creek,Driftwood,Field,F0340,a
+Onion Creek,Driftwood,Field,F0341,a
+Onion Creek,Driftwood,Field,F0343,a
+Onion Creek,Driftwood,Field,F0344,a
+Onion Creek,Driftwood,Field,F0345,a
+Onion Creek,Driftwood,Field,F0346,a
+Onion Creek,Driftwood,Field,F0347,a
+Onion Creek,Driftwood,Two Weeks,F0328,b
+Onion Creek,Driftwood,Two Weeks,F0329,b
+Onion Creek,Driftwood,Two Weeks,F0331,b
+Onion Creek,Driftwood,Two Weeks,F0332,b
+Onion Creek,Driftwood,Two Weeks,F0333,b
+Onion Creek,Driftwood,Two Weeks,F0334,b
+Onion Creek,Driftwood,Two Weeks,F0335,b
+Onion Creek,Driftwood,Two Weeks,F0337,b
+Onion Creek,Driftwood,Two Weeks,F0338,b
+Onion Creek,Driftwood,Two Weeks,F0339,b
+Onion Creek,Driftwood,Two Weeks,F0340,b
+Onion Creek,Driftwood,Two Weeks,F0341,b
+Onion Creek,Driftwood,Two Weeks,F0343,b
+Onion Creek,Driftwood,Two Weeks,F0344,b
+Onion Creek,Driftwood,Two Weeks,F0345,b
+Onion Creek,Driftwood,Two Weeks,F0346,b
+Onion Creek,Driftwood,Two Weeks,F0347,b
+Onion Creek,Driftwood,Four Weeks,F0328,c
+Onion Creek,Driftwood,Four Weeks,F0329,c
+Onion Creek,Driftwood,Four Weeks,F0331,c
+Onion Creek,Driftwood,Four Weeks,F0332,c
+Onion Creek,Driftwood,Four Weeks,F0333,c
+Onion Creek,Driftwood,Four Weeks,F0334,c
+Onion Creek,Driftwood,Four Weeks,F0335,c
+Onion Creek,Driftwood,Four Weeks,F0337,c
+Onion Creek,Driftwood,Four Weeks,F0338,c
+Onion Creek,Driftwood,Four Weeks,F0339,c
+Onion Creek,Driftwood,Four Weeks,F0340,c
+Onion Creek,Driftwood,Four Weeks,F0341,c
+Onion Creek,Driftwood,Four Weeks,F0343,c
+Onion Creek,Driftwood,Four Weeks,F0344,c
+Onion Creek,Driftwood,Four Weeks,F0345,c
+Onion Creek,Driftwood,Four Weeks,F0346,c
+Onion Creek,Driftwood,Four Weeks,F0347,c
+Onion Creek,Driftwood,Six Weeks,F0328,d
+Onion Creek,Driftwood,Six Weeks,F0329,d
+Onion Creek,Driftwood,Six Weeks,F0331,d
+Onion Creek,Driftwood,Six Weeks,F0332,d
+Onion Creek,Driftwood,Six Weeks,F0333,d
+Onion Creek,Driftwood,Six Weeks,F0334,d
+Onion Creek,Driftwood,Six Weeks,F0335,d
+Onion Creek,Driftwood,Six Weeks,F0337,d
+Onion Creek,Driftwood,Six Weeks,F0338,d
+Onion Creek,Driftwood,Six Weeks,F0339,d
+Onion Creek,Driftwood,Six Weeks,F0340,d
+Onion Creek,Driftwood,Six Weeks,F0341,d
+Onion Creek,Driftwood,Six Weeks,F0343,d
+Onion Creek,Driftwood,Six Weeks,F0344,d
+Onion Creek,Driftwood,Six Weeks,F0345,d
+Onion Creek,Driftwood,Six Weeks,F0346,d
+Onion Creek,Driftwood,Six Weeks,F0347,d
+Onion Creek,Driftwood,Eight Weeks,F0328,e
+Onion Creek,Driftwood,Eight Weeks,F0329,e
+Onion Creek,Driftwood,Eight Weeks,F0331,e
+Onion Creek,Driftwood,Eight Weeks,F0332,e
+Onion Creek,Driftwood,Eight Weeks,F0333,e
+Onion Creek,Driftwood,Eight Weeks,F0334,e
+Onion Creek,Driftwood,Eight Weeks,F0335,e
+Onion Creek,Driftwood,Eight Weeks,F0337,e
+Onion Creek,Driftwood,Eight Weeks,F0338,e
+Onion Creek,Driftwood,Eight Weeks,F0339,e
+Onion Creek,Driftwood,Eight Weeks,F0340,e
+Onion Creek,Driftwood,Eight Weeks,F0341,e
+Onion Creek,Driftwood,Eight Weeks,F0343,e
+Onion Creek,Driftwood,Eight Weeks,F0344,e
+Onion Creek,Driftwood,Eight Weeks,F0345,e
+Onion Creek,Driftwood,Eight Weeks,F0346,e
+Onion Creek,Driftwood,Eight Weeks,F0347,e
